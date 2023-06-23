@@ -1,0 +1,43 @@
+body{
+     background-color: rgb(45, 40, 40);
+     color: #b91717;
+}
+
+p{
+     font-size: 50px;
+}
+
+h2{
+     font-size: 20px;
+     margin-left: 600px;
+     margin-top: 200px;
+     color: #b91717 ;
+} 
+span{
+    color: aqua;
+}
+h3{
+     font-size: 20px;
+     margin-left: 600px;
+     margin-top: 40px;
+}
+h4{
+    font-size: 20px;
+    margin-left: 600px;
+    max-width: 70px;
+}
+h5{
+    font-size: 20px;
+    margin-left: 600px;
+    max-width: 70px;
+
+}
+div{
+    margin-top: -20%;
+    
+}
+img{
+    max-width:400px;
+    margin-top:-22%;
+    margin-left: 60px;
+}
