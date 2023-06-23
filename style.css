@@ -36,7 +36,10 @@ div{
     margin-top: -20%;
     
 }
-img{
+img{ max-width:400px;
+    margin-top:-22%;
+    margin-left: 60px;
+}
     max-width:400px;
     margin-top:-22%;
     margin-left: 60px;
